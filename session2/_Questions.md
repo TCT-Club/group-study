@@ -14,32 +14,44 @@ https://www.codingninjas.com/studio/problems/sort-0-1-2_631055?leftPanelTabValue
 https://www.codingninjas.com/studio/problems/reverse-the-string_799927?leftPanelTabValue=PROBLEM
 
 
-5. Count Ways To Reach The N-th Stairs
+5.  Find second highest
+https://www.codingninjas.com/studio/problems/second-largest-element-in-the-array_873375
+
+
+6. Palindrome
+https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633
+
+
+7.  Level order traversal
+https://www.codingninjas.com/studio/problems/level-order-traversal_796002
+
+
+8. Count Ways To Reach The N-th Stairs
 https://www.codingninjas.com/studio/problems/count-ways-to-reach-nth-stairs_798650?leftPanelTabValue=PROBLEM
 
 
-6. Number Of Pairs With Given Sum
+8. Number Of Pairs With Given Sum
 https://www.codingninjas.com/studio/problems/number-of-pairs-with-given-sum_630509?leftPanelTabValue=PROBLEM
 
 
-7. Spiral Metrix
+9. Spiral Metrix
 https://www.codingninjas.com/studio/problems/spiral-matrix_840698?leftPanelTabValue=SUBMISSION
 
 
-8. Valid Parentheses
+10. Valid Parentheses
 https://www.codingninjas.com/studio/problems/valid-parenthesis_795104?leftPanelTabValue=PROBLEM
 
 
-9. Evaluate Reverse Polish Notation
+11. Evaluate Reverse Polish Notation
 not working : https://www.codingninjas.com/studio/problems/evaluate-reverse-polish-notation_3189126?leftPanelTabValue=PROBLEM
 working : https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
 
-10. Merge Sort
+12. Merge Sort
 https://www.codingninjas.com/studio/problems/merge-sort_920442
 
 
-11. Kth Smallest and Largest Element of Array
+ 13. Kth Smallest and Largest Element of Array
  https://www.codingninjas.com/studio/problems/kth-smallest-and-largest-element-of-array_1115488?leftPanelTabValue=PROBLEM
 
 
